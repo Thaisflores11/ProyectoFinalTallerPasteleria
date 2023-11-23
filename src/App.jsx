@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import Welcome from './vistas/VistaWelcome'
 import './App.css'
-import Encabezado from './componentes/organismos/Encabezado'
+import Encabezado from './componentes/moleculas/Encabezado'
 
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
   return (
     <>
 
-      <Encabezado />
+      
       <Welcome />
   
       
