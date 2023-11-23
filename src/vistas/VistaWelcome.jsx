@@ -1,8 +1,9 @@
 import React from 'react'
-
+import './stylesvistas/Welcome.css'
 function VistaWelcome() {
   return (
-    <div>
+    <div className='body'>
+        
       
     </div>
   )
