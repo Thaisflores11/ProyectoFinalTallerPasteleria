@@ -7,8 +7,6 @@ import VistaMenu from './vistas/VistaMenu';
 import VistaMenu2 from './vistas/VistaMenu2'; 
 import VistaTienda from './vistas/VistaTienda';  
 
-import './App.css'
-import Encabezado from './componentes/moleculas/Encabezado'
 import './App.css';
 import Encabezado from './componentes/moleculas/Encabezado';
 import BarraNavegacionInferior from './componentes/organismos/barraNavegacion'
@@ -20,7 +18,7 @@ function App() {
 
   return (
     <>
-      <VistaTienda />
+      < VistaHome/>
       
       
   
