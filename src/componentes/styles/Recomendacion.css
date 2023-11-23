@@ -14,6 +14,7 @@
 }
 
 .tarjeta-recomendacion {
+    display: flex;
     position: relative;
     border: 1px solid rgb(248, 227, 182);
     border-radius: 8px;
