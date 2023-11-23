@@ -1,0 +1,34 @@
+/* App.css */
+.app-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .app {
+    text-align: center;
+    display: flex;
+    align-items: center;
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .button {
+    width: 24px;
+    height: 24px;
+    font-size: 16px;
+    margin: 0 4px; /* Ajusta el espacio entre los botones según tus preferencias */
+    cursor: pointer;
+  }
+  
+  #numberDisplay {
+    font-size: 24px;
+    margin: 0 8px; /* Ajusta el margen del número según tus preferencias */
+  }
+  
