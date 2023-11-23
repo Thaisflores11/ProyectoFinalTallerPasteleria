@@ -2,10 +2,9 @@ body
 {
     display: flex;
     background-color:var(--colordefondo1);
-    align-items: center;
-    justify-content: center;
+    
 }
-div
+divo
 {
 
     padding: 20px;

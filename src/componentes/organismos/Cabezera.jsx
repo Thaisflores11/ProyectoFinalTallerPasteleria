@@ -1,18 +1,22 @@
 import React from 'react'
 import '../styles/Cabezera.css'
+import LogoGe from '../atomos/LogoGe'
+import ButtonH from '../atomos/buttonH'
 function Cabezera() {
   return (
-    <div>
-        <img className='logo'
-        src=".../logo.png" alt="" />
-        <button className='primerboton'>
-            <img src=".../campanita.svg" alt="" />
-        </button>
-        <button className='segundoboton'>
-            <img src=".../barritas.png" alt="" />
-        </button>
+    <cabez>
+        <diva>
+        <imge>
+            <img src="../LogoGee.svg" alt="" />
+        </imge>
+        <boton>
+            <ButtonH />
+        </boton>
+        </diva>
+        
+        
       
-    </div>
+    </cabez>
   )
 }
 

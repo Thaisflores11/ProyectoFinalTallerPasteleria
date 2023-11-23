@@ -5,7 +5,8 @@ import Cabezera from '../componentes/organismos/Cabezera'
 function VistaHome() {
   return (
     <>
-      <TarjetaRecomendacion />
+
+      <Cabezera />
       
       </>
       

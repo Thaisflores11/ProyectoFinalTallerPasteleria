@@ -10,9 +10,9 @@ function VistaWelcome() {
     <>
       
       <Logosito />
-        <div className='button'>
+        <divo className='button'>
         <ButtonW />
-        </div>
+        </divo>
         <secim><LogoGe /></secim>
         
       
