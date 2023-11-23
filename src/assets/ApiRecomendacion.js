@@ -37,7 +37,7 @@ export const recomendaciones = [
     {
         title: "pasteles",
         imgUrl: "/recomendacion2.svg",
-        precio: "Bs.15",
+        precio: "Bs.25",
     },
     {
         title: "pasteles",

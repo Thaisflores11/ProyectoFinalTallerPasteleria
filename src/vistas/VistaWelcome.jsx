@@ -1,11 +1,16 @@
-import React from 'react'
-import './stylesvistas/Welcome.css'
+import React from 'react';
+import Logosito from '../componentes/atomos/logosito';
+import './stylesvistas/Welcome.css';
 function VistaWelcome() {
+  
   return (
-    <div className='body'>
+    
+    <>
+      <Logosito />
         
-      
-    </div>
+        
+    </>
+    
   )
 }
 

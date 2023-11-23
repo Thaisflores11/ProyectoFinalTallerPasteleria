@@ -1,0 +1,27 @@
+
+.titulopastel{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+img{
+    width: 290px;
+    height: 211px;
+   
+    
+}
+.imagenPastel{
+    display: flex;
+    justify-content: flex-end;
+    align-content: stretch;
+    flex-wrap: nowrap;
+    flex-direction: row;
+
+}
+.precio{
+    margin-top: 50px;
+    margin-left: 30px;
+}
