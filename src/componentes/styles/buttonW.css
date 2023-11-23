@@ -1,4 +1,10 @@
 button
 {
-    font: var(--letra);
+    font: inter;
+    font-weight: 600;
+    font-size:28px;
+    background-color:rgba(246, 211, 175, 1);
+    height: 52px;
+    width: 331;
+    color: rgba(217, 148, 88, 1);
 }
