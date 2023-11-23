@@ -1,11 +1,14 @@
 import react from 'react'
 import DireccionLista from '../moleculas/direccionList';
+import '../styles/direcciones.css'
 function Ubicaciones() {
 
 
   return (
     <>
-      <DireccionLista />
+    <div class="contenedor-externo">
+        <DireccionLista />
+    </div>
     </>
   )
 }
