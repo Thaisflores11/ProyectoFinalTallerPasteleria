@@ -1,12 +1,13 @@
 import React from 'react';
+import Logosito from '../componentes/atomos/logosito';
 import './stylesvistas/Welcome.css';
 function VistaWelcome() {
   
   return (
     
     <>
-        <img className='osito'
-        src="../public/osito2.svg" alt="" />
+      <Logosito />
+        
         
     </>
     
