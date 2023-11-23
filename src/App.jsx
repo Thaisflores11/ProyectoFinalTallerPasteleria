@@ -12,12 +12,9 @@ function App() {
 
   return (
     <>
-<<<<<<< HEAD
 
-      <Ubicaciones /> 
-=======
       <VistaHome /> 
->>>>>>> bda0aca03f2db9da6fb2f9a8376f487ed6bf9923
+      
   
       
     </>
