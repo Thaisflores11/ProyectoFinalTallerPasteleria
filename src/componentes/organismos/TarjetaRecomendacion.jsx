@@ -1,6 +1,6 @@
 import React from 'react';
 import Recomendacion from "../moleculas/Recomendacion";
-import { recomendaciones } from "../../assets/ApiRecomendacion";
+import { recomendaciones } from "../../assets/ApiRecomendacionPastel";
 
 import "../styles/Recomendacion.css";
 
@@ -14,7 +14,7 @@ const TarjetaRecomendacion = () => {
             key={index}
             title={recomendacion.title}
             imgUrl={recomendacion.imgUrl}
-            precio={recomendacion.precio}
+          
           />
         ))}
       </div>

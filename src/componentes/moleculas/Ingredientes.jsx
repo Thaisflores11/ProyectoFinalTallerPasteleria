@@ -3,7 +3,7 @@ import React from 'react';
 
 import Descripción from '../atomos/descripcion';
 
-function Encabezado()  {
+function Ingredientes()  {
   return (
     <>
    
@@ -14,4 +14,4 @@ function Encabezado()  {
     </>
   );
 };
-export default Encabezado
+export default Ingredientes
