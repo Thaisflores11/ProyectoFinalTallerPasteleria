@@ -15,8 +15,16 @@
     margin: 10px; /* Espaciado entre cuadros */
     padding: 10px;
     text-align: center;
+    overflow: hidden;
 
   }
+  .contenedor-externo {
+    margin: 20px;
+    width: 395px;
+    height: 800px;
+    overflow-y: auto;
+    border: 2px solid black;
+}
   
   #titulo {
 

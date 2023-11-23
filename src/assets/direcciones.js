@@ -24,4 +24,14 @@ export const direcciones=[
         parrafo:'NOse',
         
     },
+    {
+        titulo:'Anoten',
+        parrafo:'Lugares',
+        
+    },
+    {
+        titulo:'Micasa',
+        parrafo:'MIKASA',
+        
+    },
 ]
