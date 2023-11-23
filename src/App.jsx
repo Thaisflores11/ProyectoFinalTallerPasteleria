@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Welcome from './vistas/VistaWelcome'
-import BarraNavegacionInferior from './vistas/navegInf'
+import BarraNavegacionInferior from './componentes/organismos/barraNavegacion'
 import './App.css'
 import Ubicaciones from './componentes/organismos/ubicaciones'
 
