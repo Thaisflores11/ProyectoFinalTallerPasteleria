@@ -15,6 +15,7 @@ const TarjetaRecomendacion = () => {
             title={recomendacion.title}
             imgUrl={recomendacion.imgUrl}
             precio={recomendacion.precio}
+            
           />
         ))}
       </div>
