@@ -1,4 +1,12 @@
 body
 {
-    background-color: aquamarine;
+    background-color:var(--colordefondo1);
+}
+.osito
+{
+    width: 307px;
+    height: 656px;
+
+    background-color: var(--colordefondo1);
+
 }

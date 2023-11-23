@@ -1,11 +1,16 @@
-import React from 'react'
-import './stylesvistas/Welcome.css'
+import React from 'react';
+import './stylesvistas/Welcome.css';
+
 function VistaWelcome() {
+  
   return (
-    <div className='body'>
+    
+    <>
+        <img className='osito'
+        src="../public/osito2.svg" alt="" />
         
-      
-    </div>
+    </>
+    
   )
 }
 
