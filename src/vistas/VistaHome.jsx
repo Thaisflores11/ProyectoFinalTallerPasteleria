@@ -7,7 +7,7 @@ function VistaHome() {
     <>
 
       <Cabezera />
-      
+      <TarjetaRecomendacion />
       </>
       
     
