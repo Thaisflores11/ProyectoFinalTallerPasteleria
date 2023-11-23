@@ -1,3 +1,8 @@
 export function Usuario(){
-    return(<h1>hola mundo</h1>)
+    return(
+        <div>
+            <input type="email" required />
+            <label htmlFor="">correo electronico</label>
+        </div>
+        )
 }
