@@ -1,0 +1,41 @@
+.tarjeta-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  margin: 10px 0;
+  width: 100%;
+  overflow-y: auto; 
+}
+
+.tarjeta-menu {
+  display: flex;
+  flex-direction: column; 
+  align-items: center; 
+  margin: 10px 0;
+  border: 1px solid rgb(248, 227, 182);
+  border-radius: 8px;
+  overflow: hidden; 
+}
+
+.imagen-tarjeta {
+  width: 100%;
+}
+
+.imagen-tarjeta img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px 8px 0 0;
+}
+
+.textos-tarjeta-menu {
+  width: 100%;
+  padding: 10px;
+  color: black;
+  background-color: white;
+  border-radius: 0 0 8px 8px;
+}
+
+.textos-tarjeta-menu p {
+  margin: 5px 0;
+  font-weight: bold;
+}

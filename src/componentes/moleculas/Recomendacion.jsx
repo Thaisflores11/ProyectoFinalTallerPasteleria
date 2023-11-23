@@ -8,6 +8,7 @@ const Recomendacion = ({ title, imgUrl, precio }) => {
       <div className="textos-tarjeta-recomendacion">
         <p>{title}</p>
         <p>{precio}</p>
+        
       </div>
     </div>
   );
