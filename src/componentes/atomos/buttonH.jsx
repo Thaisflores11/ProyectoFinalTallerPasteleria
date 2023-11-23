@@ -4,10 +4,10 @@ function buttonH() {
   return (
     <>
 
-      <button>
+      <button className='botonhome'>
         <img src="../campanita.svg" alt="" />
       </button>
-      <button>
+      <button className='botonhome'>
         <img src="../barritas.svg" alt="" />
       </button>
     </>

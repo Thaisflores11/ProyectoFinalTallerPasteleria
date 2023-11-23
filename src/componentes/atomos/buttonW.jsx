@@ -3,7 +3,7 @@ import '../styles/buttonW.css'
 export default function buttonW() {
   return (
     <div>
-        <button>INGRESAR</button>
+        <button className='botonW'>INGRESAR</button>
       
     </div>
   )

@@ -7,7 +7,7 @@ import "../styles/Recomendacion.css";
 const TarjetaRecomendacion = () => {
   return (
     <section className="recomendacion-section">
-      <h2>Tendecias</h2>
+      <h2>Recomendaciones</h2>
       <div className="tarjeta-container">
         {recomendaciones.map((recomendacion, index) => (
           <Recomendacion
