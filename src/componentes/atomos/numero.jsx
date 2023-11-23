@@ -2,7 +2,9 @@ import React from 'react';
 
 const Numero = ({ number }) => {
   return (
-    <div id="numberDisplay">{number}</div>
+    <div id="numberDisplay">
+        {number}
+    </div>
   );
 };
 
