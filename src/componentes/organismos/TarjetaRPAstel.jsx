@@ -1,10 +1,10 @@
 import React from 'react';
 import Recomendacion from "../moleculas/Recomendacion";
-import { recomendaciones } from "../../assets/ApiRecomendacion";
+import { recomendaciones } from "../../assets/ApiRecomendacionPastel";
 
 import "../styles/Recomendacion.css";
 
-const TarjetaRecomendacion = () => {
+const TarjetaRPastel = () => {
   return (
     <section className="recomendacion-section">
       <h2>Recomendaciones</h2>
@@ -22,4 +22,4 @@ const TarjetaRecomendacion = () => {
   );
 };
 
-export default TarjetaRecomendacion;
+export default TarjetaRPastel;
